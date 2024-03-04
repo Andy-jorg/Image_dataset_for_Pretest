@@ -1,15 +1,62 @@
-posttest,mean_liking,bins
-3.,3.351007887817704,12
-36.,3.306639288158795,12
-24.,3.3640226628895182,13
-122.,3.568457538994801,16
-119.,3.659114315139032,18
-22.,3.411225658648339,13
-94.,3.397163120567376,13
-112.,3.274949083503055,11
-106.,3.18801652892562,10
-72.,2.996142719382835,6
-105.,3.4707692307692306,14
-120.,3.6119148936170213,17
-5.,3.4980184940554824,15
-18.,3.133630289532294,9
+image,posttest,mean_liking,bins
+103. Bæredygtighedskampagne - annonce.jpg,103.,3.4327018943170486,14
+103. Bæredygtighedskampagne_Film_1.jpg,103.,3.4327018943170486,14
+103. Bæredygtighedskampagne_Film_2.jpg,103.,3.4327018943170486,14
+103. Bæredygtighedskampagne_Film_3.jpg,103.,3.4327018943170486,14
+107. Bæredygtighed - annonce.jpg,107.,3.4607438016528924,14
+107. Bæredygtighed_Film_1.jpg,107.,3.4607438016528924,14
+107. Bæredygtighed_Film_2.jpg,107.,3.4607438016528924,14
+107. Bæredygtighed_Film_3.jpg,107.,3.4607438016528924,14
+108. Erhvervskampagne - annonce 1.jpg,108.,3.5433333333333334,16
+108. Erhvervskampagne - annonce 2.jpg,108.,3.5433333333333334,16
+108. Erhvervskampagne - annonce 3.jpg,108.,3.5433333333333334,16
+108. Erhvervskampagne_Film_1.jpg,108.,3.5433333333333334,16
+108. Erhvervskampagne_Film_2.jpg,108.,3.5433333333333334,16
+108. Erhvervskampagne_Film_3.jpg,108.,3.5433333333333334,16
+108. Erhvervskampagne_Film_4.jpg,108.,3.5433333333333334,16
+110. Orange Sommerudsalg 2022 - annonce 1.jpg,110.,3.5801447776628748,16
+110. Orange Sommerudsalg 2022 - annonce 2.jpg,110.,3.5801447776628748,16
+110. Orange Sommerudsalg 2022 - annonce 3.jpg,110.,3.5801447776628748,16
+111. Bæredygtighed August 2022 - annonce 1.jpg,111.,3.616889804325438,17
+111. Bæredygtighed August 2022 - annonce 2.jpg,111.,3.616889804325438,17
+111. Bæredygtighed August 2022_Film_1.jpg,111.,3.616889804325438,17
+111. Bæredygtighed August 2022_Film_2.jpg,111.,3.616889804325438,17
+111. Bæredygtighed August 2022_Film_3.jpg,111.,3.616889804325438,17
+111. Bæredygtighed August 2022_Film_4.jpg,111.,3.616889804325438,17
+116. Bæredygtighed Oktober 2022 - annonce 1.jpg,116.,3.6007944389275073,17
+116. Bæredygtighed Oktober 2022 - annonce 2.jpg,116.,3.6007944389275073,17
+116. Bæredygtighed Oktober 2022_Film_1.jpg,116.,3.6007944389275073,17
+116. Bæredygtighed Oktober 2022_Film_2.jpg,116.,3.6007944389275073,17
+116. Bæredygtighed Oktober 2022_Film_3.jpg,116.,3.6007944389275073,17
+123. Orange Sommerudsalg_Film_1_1.jpg,123.,3.588053553038105,16
+123. Orange Sommerudsalg_Film_1_2.jpg,123.,3.588053553038105,16
+123. Orange Sommerudsalg_Film_2_1.jpg,123.,3.588053553038105,16
+123. Orange Sommerudsalg_Film_2_2.jpg,123.,3.588053553038105,16
+123. Orange Sommerudsalg_Film_2_3.jpg,123.,3.588053553038105,16
+15. Udland - annonce.jpg,15.,3.5192168237853516,15
+15. Udland - banner.jpg,15.,3.5192168237853516,15
+23. Ung - annonce 1.jpg,23.,3.3130434782608695,12
+23. Ung - annonce 2.jpg,23.,3.3130434782608695,12
+25. 10-turs kort - annonce 1.jpg,25.,3.3130434782608695,12
+25. 10-turs kort - annonce 2.jpg,25.,3.3130434782608695,12
+69. Orange Fri lancering - banner.jpg,69.,3.3969521044992743,13
+69. Orange Fri lancering - film.mov 10.jpg,69.,3.3969521044992743,13
+69. Orange Fri lancering - film.mov 2.jpg,69.,3.3969521044992743,13
+69. Orange Fri lancering - film.mov 7.jpg,69.,3.3969521044992743,13
+70. Den fælles fortælling - runde 2 - annonce.jpg,70.,3.199195171026157,10
+70. Den fælles fortælling - runde 2 - film 15.jpg,70.,3.199195171026157,10
+70. Den fælles fortælling - runde 2 - film 27.jpg,70.,3.199195171026157,10
+70. Den fælles fortælling - runde 2 - film 29.jpg,70.,3.199195171026157,10
+70. Den fælles fortælling - runde 2 - film 6.jpg,70.,3.199195171026157,10
+77. Sammen med os - del 1 - film 13.jpg,77.,2.972375690607735,6
+77. Sammen med os - del 1 - film 18.jpg,77.,2.972375690607735,6
+77. Sammen med os - del 1 - film 20.jpg,77.,2.972375690607735,6
+77. Sammen med os - del 1 - film 41.jpg,77.,2.972375690607735,6
+77. Sammen med os - del 1 - film 42.jpg,77.,2.972375690607735,6
+82. Orange Januarudsalg - annonce.jpg,82.,3.544799176107106,16
+82. Orange Januarudsalg - film 2.jpg,82.,3.544799176107106,16
+82. Orange Januarudsalg - film 3.jpg,82.,3.544799176107106,16
+93. Sporarbejde Cykel - annonce.jpg,93.,3.084093211752786,8
+93. Sporarbejde Cykel_Film_1.jpg,93.,3.084093211752786,8
+93. Sporarbejde Cykel_Film_2.jpg,93.,3.084093211752786,8
+93. Sporarbejde Cykel_Film_3.jpg,93.,3.084093211752786,8
